@@ -3,6 +3,7 @@
 - Simultaneous use of mask and date validation for date fields
 Support Farsi, Arabic and English keyboards
 - You can also customize the second input of the function according to the usage
+- with leap year
 
 # requirement
   jquery
